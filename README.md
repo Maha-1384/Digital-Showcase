@@ -1,4 +1,3 @@
-Certainly! Based on the contents of your GitHub repository, here's a comprehensive `README.md` for your **Digital Showcase** project:
 
 ---
 
